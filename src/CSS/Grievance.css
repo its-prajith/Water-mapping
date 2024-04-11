@@ -1,0 +1,39 @@
+
+.grievance {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  width: 300px; /* Adjust width as needed */
+  padding: 20px;
+  margin: 0 auto;
+  font-size: 14px;
+}
+
+.grievance label {
+  margin-bottom: 5px;
+  text-align: center; /* Align labels to center */
+}
+
+.grievance input[type="text"] {
+  width: 100%;
+  padding: 8px;
+  font-size: 14px;
+}
+
+.btnsub {
+  width: 80px;
+  margin-top: 10px; /* Add some space between inputs and button */
+  border-radius: 5px;
+  align-self: center; /* Align button to center */
+}
+
+.grie-title {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center; /* Align title to center */
+  margin-bottom: 20px; /* Add some space below title */
+}
+
+  
